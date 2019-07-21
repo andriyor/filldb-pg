@@ -1,7 +1,6 @@
-#filldb-pg
+# filldb-pg
 
 Automatically generate data and fill your database tables with test data. 
-
 
 filldb-pg will try to guess the format of data required based on column names and will generate 
 random names, dates, emails, addresses and more to fill your PostgreSQL database with data.
@@ -29,8 +28,8 @@ As result
 
 | id |email                           |first_name |last_name   |
 |----|--------------------------------|-----------|------------|
-| 15 | Jeffery30@yahoo.com            | Arvilla   | Yost       |
-| 25 | Lyda.Smith2@yahoo.com          | Willard   | Kunze      |
-| 35 | Wayne.Erdman@yahoo.com         | Guadalupe | Dare       |
-| 36 | Arno.Macejkovic58@hotmail.com  | Cynthia   | Hahn       |
-| 37 | Helene_Bergstrom10@yahoo.com   | Adelia    | Buckridge  |
+| 1 | Jeffery30@yahoo.com            | Arvilla   | Yost       |
+| 2 | Lyda.Smith2@yahoo.com          | Willard   | Kunze      |
+| 3 | Wayne.Erdman@yahoo.com         | Guadalupe | Dare       |
+| 4 | Arno.Macejkovic58@hotmail.com  | Cynthia   | Hahn       |
+| 5 | Helene_Bergstrom10@yahoo.com   | Adelia    | Buckridge  |
